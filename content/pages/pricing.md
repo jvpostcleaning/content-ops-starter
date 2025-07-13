@@ -13,6 +13,17 @@ sections:
     text:
     We’d like to introduce JV Post Construction Cleaning, LLC, proudly owned by Joanne
     Solis and Viridiana Moreno.
+    colors: bg-neutral-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-40
+          - pl-4
+          - pb-40
+          - pr-4
+        alignItems: center
+        flexDirection: row-reverse
+        justifyContent: center
     type: GenericSection
     backgroundImage:
       type: BackgroundImage
