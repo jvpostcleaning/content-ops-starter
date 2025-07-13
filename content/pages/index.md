@@ -40,7 +40,6 @@ sections:
       backgroundRepeat: no-repeat
       opacity: 100
       url: /images/abstract-background.svg
-  - type: GenericSection
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
