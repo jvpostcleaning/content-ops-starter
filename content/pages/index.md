@@ -724,6 +724,7 @@ sections:
           borderWidth: 1
           borderRadius: large
       type: FormBlock
+      formAction: "https://formspree.io/f/xjkobkzz"
       submitButton:
         type: SubmitButtonFormControl
         label: Submit
