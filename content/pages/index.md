@@ -43,6 +43,7 @@ sections:
       styles:
         self:
           textAlign: center
+          fontSize: text-sm
       type: TitleBlock
     subtitle: 
     items:
