@@ -1,25 +1,39 @@
 ---
-title: Pricing
-slug: pricing
+title: Welcome
+slug: Welcome
 sections:
   - title:
-      text: Cleaning Services
+      text: A team that works closely together
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
     subtitle: Section subtitle
-    text: >       Dear Future Client,
-      We’d like to introduce JV Post Construction Cleaning, LLC, proudly owned by Joanne Solis and Viridiana Moreno.
-With years of experience in the construction industry and both of us holding OSHA 10 & OSHA 30 certifications, we understand the high standards required for a job site to be truly complete. That’s why we founded JV Post Cleaning to provide reliable, detail- oriented, and professional post-construction cleaning services you can count on.
-We specialize in the following
-Post-Construction Rough Cleaning 
-Final Detail & Touch-Up Cleaning 
-Industrial & Residential Clean-Up
-Whether you're turning over a new home, commercial space, or need final touches before inspection — we're here to help.
-We are fully equipped, bilingual (English & Spanish), and ready to handle jobs of all sizes. Feel free to contact us with any questions or to request a quote
-
+    text: >
+      There are many variations of passages of Lorem Ipsum available, but the
+      majority have suffered alteration in some form, by injected humour, or
+      randomised words which don't look even slightly believable. If you are
+      going to use a passage of Lorem Ipsum, you need to be sure there isn't
+      anything embarrassing hidden in the middle of text.
+    actions:
+      - label: See open positions
+        url: /
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        type: Button
+    colors: bg-neutral-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-40
+          - pl-4
+          - pb-40
+          - pr-4
+        alignItems: center
+        flexDirection: row-reverse
+        justifyContent: center
       text:
         textAlign: center
       subtitle:
