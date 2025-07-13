@@ -36,7 +36,7 @@ sections:
           - pl-16
           - pb-16
           - pr-16
-    - type: FeaturedItem
+  - type: FeaturedItem
       title: Post-Construction Rough Cleaning
       styles:
         self:
