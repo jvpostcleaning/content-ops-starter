@@ -16,6 +16,7 @@ sections:
       randomised words which don't look even slightly believable. If you are
       going to use a passage of Lorem Ipsum, you need to be sure there isn't
       anything embarrassing hidden in the middle of text.
+    colors: bg-neutral-fg-dark
     styles:
       self:
         padding:
