@@ -40,21 +40,6 @@ sections:
       backgroundRepeat: no-repeat
       opacity: 100
       url: /images/abstract-background.svg
-    badge:
-      label: This is a badge
-      color: text-primary
-      type: Badge
-    elementId: ''
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
@@ -94,6 +79,26 @@ sections:
           styles:
             self:
               borderRadius: x-large
+        badge:
+          label: This is a badge
+          color: text-primary
+          styles:
+            self:
+              textAlign: center
+          type: Badge
+        elementId: ''
+        variant: three-col-grid
+        colors: bg-neutral-fg-dark
+        styles:
+          self:
+            padding:
+              - pb-16
+              - pt-16
+              - pl-16
+              - pr-16
+            justifyContent: center
+          subtitle:
+            textAlign: center
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
