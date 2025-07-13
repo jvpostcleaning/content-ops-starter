@@ -4,15 +4,8 @@
     "altText": "Logo light",
     "type": "ImageBlock"
   },
-  "text": "A description of your brand",
-  "socialLinks": [
-    {
-      "altText": "Email link",
-      "url": "/",
-      "icon": "mail",
-      "type": "Social"
-    }
-  ],
+  "text": "Contact Us<br>Joanne Solis – 832-722-9119<br>Viridiana Moreno – 346-260-0970<br>jvpostcleaning@gmail.com<br>www.jvpostcleaning.com",
+  "textAlign": "center",
   "legalLinks": [
     {
       "label": "Terms",
@@ -33,5 +26,10 @@
   ],
   "copyrightText": "",
   "colors": "bg-dark-fg-light",
-  "type": "Footer"
+  "type": "Footer",
+  "styles": {
+    "text": {
+      "textAlign": "center"
+    }
+  }
 }
