@@ -23,6 +23,7 @@ sections:
         alignItems: center
         textAlign: center
         flexDirection: column
+        justifyContent: center
         padding:
           - pt-16
           - pl-16
