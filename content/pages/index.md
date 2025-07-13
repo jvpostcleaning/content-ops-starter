@@ -16,29 +16,6 @@ sections:
       randomised words which don't look even slightly believable. If you are
       going to use a passage of Lorem Ipsum, you need to be sure there isn't
       anything embarrassing hidden in the middle of text.
-    actions:
-      - label: See open positions
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Button
-    colors: bg-neutral-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-40
-          - pl-4
-          - pb-40
-          - pr-4
-        alignItems: center
-        flexDirection: row-reverse
-        justifyContent: center
-      text:
-        textAlign: center
-      subtitle:
-        textAlign: center
-    type: GenericSection
     backgroundImage:
       type: BackgroundImage
       altText: altText of the image
