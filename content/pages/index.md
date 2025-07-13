@@ -36,27 +36,43 @@ sections:
           - pl-16
           - pb-16
           - pr-16
-  - type: FeaturedItem
-    title: Post-Construction Rough Cleaning
-    styles:
-      self:
-        flexDirection: col sm:row
-        textAlign: center
-        padding:
-          - pt-6
-          - pb-6
-          - pl-4
-          - pr-4
-          - sm:pl-8
-          - sm:pr-8
-        borderRadius: x-large
-    image:
-      type: ImageBlock
-      url: /images/icon1.svg
-      altText: Icon
+  - type: FeaturedItemsSection
+    title:
+      text: Specializations
+      color: text-dark
       styles:
         self:
-          borderRadius: x-large
+          textAlign: center
+          fontSize: text-sm
+      type: TitleBlock
+    subtitle: 
+    items:
+      - type: FeaturedItem
+        title: Post-Construction Rough Cleaning
+        subtitle:
+        text:
+        actions: []
+        elementId: null
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+            justifyContent: center
+            textAlign: left
+        image:
+          type: ImageBlock
+          altText: Lightning bolt symbol on red background
+          elementId: ''
+          url: /images/icon1.svg
+          styles:
+            self:
+              borderRadius: x-large
       - title: Final Detail & Touch-Up Cleaning
         subtitle:
         text:
