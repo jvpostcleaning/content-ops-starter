@@ -10,6 +10,7 @@ sections:
       styles:
         self:
           textAlign: center
+        text:
           fontSize: text-xs sm:text-sm
     text: >
       We’d like to introduce JV Post Construction Cleaning, LLC, proudly owned by Joanne
