@@ -14,7 +14,7 @@ sections:
       Dear Future Client,
       We’d like to introduce JV Post Construction Cleaning, LLC, proudly owned by Joanne Solis and Viridiana Moreno.
 With years of experience in the construction industry and both of us holding OSHA 10 & OSHA 30 certifications, we understand the high standards required for a job site to be truly complete. That’s why we founded JV Post Cleaning — to provide reliable, detail- oriented, and professional post-construction cleaning services you can count on.
-We specialize in the following:
+We specialize in the following
 Post-Construction Rough Cleaning 
 Final Detail & Touch-Up Cleaning 
 Industrial & Residential Clean-Up
