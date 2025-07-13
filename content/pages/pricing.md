@@ -12,24 +12,6 @@ sections:
     subtitle: Section subtitle
     text: >
       changes occur here
-    actions:
-      - label: See open positions
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-    colors: bg-neutral-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-40
-          - pl-4
-          - pb-40
-          - pr-4
-        alignItems: center
-        flexDirection: row-reverse
-        justifyContent: center
-    type: GenericSection
     backgroundImage:
       type: BackgroundImage
       altText: altText of the image
