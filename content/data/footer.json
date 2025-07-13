@@ -34,12 +34,12 @@
       "type": "Link"
     }
   ],
+  "copyrightText": "",
   "colors": "bg-dark-fg-light",
   "type": "Footer",
   "styles": {
     "self": {
-      "textAlign": "center",
-      "justifyContent": "center"
+      "textAlign": "center"
     }
   }
 }
