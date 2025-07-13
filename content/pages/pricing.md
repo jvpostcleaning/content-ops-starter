@@ -19,7 +19,7 @@ Post-Construction Rough Cleaning 
 Final Detail & Touch-Up Cleaning 
 Industrial & Residential Clean-Up
 Whether you're turning over a new home, commercial space, or need final touches before inspection — we're here to help.
-We are fully equipped, bilingual (English & Spanish), and ready to handle jobs of all sizes. Feel free to contact us with any questions or to request a quote:
+We are fully equipped, bilingual (English & Spanish), and ready to handle jobs of all sizes. Feel free to contact us with any questions or to request a quote
 
     actions:
       - label: See open positions
