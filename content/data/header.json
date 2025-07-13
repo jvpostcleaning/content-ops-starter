@@ -11,8 +11,8 @@
   },
   "primaryLinks": [
     {
-      "label": "Pricing",
-      "url": "/pricing",
+      "label": "Welcome",
+      "url": "/welcome",
       "icon": "arrowRight",
       "iconPosition": "right",
       "style": "secondary",
