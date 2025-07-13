@@ -16,6 +16,20 @@ sections:
       randomised words which don't look even slightly believable. If you are
       going to use a passage of Lorem Ipsum, you need to be sure there isn't
       anything embarrassing hidden in the middle of text.
+    styles:
+      self:
+        padding:
+          - pt-40
+          - pl-4
+          - pb-40
+          - pr-4
+        alignItems: center
+        flexDirection: row-reverse
+        justifyContent: center
+      text:
+        textAlign: center
+      subtitle:
+        textAlign: center
     type: GenericSection
     backgroundImage:
       type: BackgroundImage
