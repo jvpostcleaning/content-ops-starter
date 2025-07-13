@@ -1,6 +1,6 @@
 ---
-title: Welcome
-slug: Welcome
+title: Testing
+slug: testing
 sections:
   - title:
       text: A team that works closely together
