@@ -27,4 +27,3 @@ sections:
 type: PageLayout
 ---
 
-## This is a test
