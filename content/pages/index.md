@@ -33,21 +33,18 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: Specializations
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: 
     items:
       - type: FeaturedItem
-        title: 500k
-        subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        title: Post-Construction Rough Cleaning
+        subtitle:
+        text:
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
@@ -70,12 +67,9 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: 20x
-        subtitle: The Job Stuff
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - title: Final Detail & Touch-Up Cleaning
+        subtitle:
+        text:
         image:
           url: /images/icon2.svg
           altText: Featured icon two
@@ -95,12 +89,9 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: 200%
-        subtitle: Faster
+      - title: Industrial & Residential Clean-Up
+        subtitle:
         text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
         image:
           url: /images/icon3.svg
           altText: Featured icon three
@@ -129,7 +120,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: This is a badge
+      label:
       color: text-primary
       styles:
         self:
