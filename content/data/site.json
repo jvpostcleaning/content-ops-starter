@@ -2,7 +2,7 @@
     "favicon": "/images/favicon.svg",
     "footer": "content/data/footer.json",
     "titleSuffix": "JV Post Cleaning",
-    "defaultSocialImage": ,
+    "defaultSocialImage": "/images/jvpostcleaning.png",
     "type": "Config",
     "header": "content/data/header.json"
 }
