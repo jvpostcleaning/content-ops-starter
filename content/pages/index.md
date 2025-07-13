@@ -20,9 +20,7 @@ sections:
     colors: bg-light-fg-dark
     styles:
       self:
-        alignItems: center
-        textAlign: center
-        flexDirection: column
+        flexDirection: row
         justifyContent: center
         padding:
           - pt-16
