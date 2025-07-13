@@ -136,12 +136,12 @@ sections:
     styles:
       self:
         padding:
-            - pt-6
-            - pb-6
-            - pl-4
-            - pr-4
-            - sm:pl-8
-            - sm:pr-8
+          - pt-6
+          - pb-6
+          - pl-4
+          - pr-4
+          - sm:pl-8
+          - sm:pr-8
         justifyContent: center
       subtitle:
         textAlign: center
