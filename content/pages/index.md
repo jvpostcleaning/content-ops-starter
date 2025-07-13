@@ -10,7 +10,8 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Cleaning Service
+    subtitle:
+      text: Cleaning Service
       styles:
         self:
           textAlign: center
