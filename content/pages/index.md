@@ -144,9 +144,9 @@ sections:
       subtitle:
         textAlign: center
 seo:
-  metaTitle: Home - Demo site
-  metaDescription: This demo site is built with Netlify Create.
-  socialImage: /images/main-hero.jpg
+  metaTitle: JV Post Cleaning
+  metaDescription: JV Post Cleaning
+  socialImage:
   type: Seo
 type: PageLayout
 ---
