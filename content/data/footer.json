@@ -30,6 +30,10 @@
     "self": {
       "textAlign": "center",
       "justifyContent": "center"
+    },
+    "text": {
+      "fontSize": "text-lg",
+      "textAlign": "center"
     }
   }
 }
