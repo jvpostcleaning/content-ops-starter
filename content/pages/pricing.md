@@ -18,7 +18,6 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: primary
-        type: Button
     colors: bg-neutral-fg-dark
     styles:
       self:
