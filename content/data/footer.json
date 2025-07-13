@@ -1,35 +1,37 @@
 {
-    "logo": {
-        "url": "/images/logo-white.svg",
-        "altText": "Logo light",
-        "type": "ImageBlock"
+  "logo": {
+    "url": "/images/logo-white.svg",
+    "altText": "Logo light",
+    "type": "ImageBlock"
+  },
+  "text": "A description of your brand",
+  "socialLinks": [
+    {
+      "altText": "Email link",
+      "url": "/",
+      "icon": "mail",
+      "type": "Social"
+    }
+  ],
+  "legalLinks": [
+    {
+      "label": "Terms",
+      "url": "/",
+      "icon": "arrowRight",
+      "iconPosition": "right",
+      "style": "secondary",
+      "type": "Link"
     },
-    "text": "A description of your brand",
-        {
-            "altText": "Email link",
-            "url": "/",
-            "icon": "mail",
-            "type": "Social"
-        }
-    "legalLinks": [
-        {
-            "label": "Terms",
-            "url": "/",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
-            "label": "Privacy",
-            "url": "/",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        }
-    ],
-    "copyrightText": "",
-    "colors": "bg-dark-fg-light",
-    "type": "Footer"
+    {
+      "label": "Privacy",
+      "url": "/",
+      "icon": "arrowRight",
+      "iconPosition": "right",
+      "style": "secondary",
+      "type": "Link"
+    }
+  ],
+  "copyrightText": "",
+  "colors": "bg-dark-fg-light",
+  "type": "Footer"
 }
