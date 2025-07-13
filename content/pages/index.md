@@ -37,26 +37,26 @@ sections:
           - pb-16
           - pr-16
   - type: FeaturedItem
-      title: Post-Construction Rough Cleaning
+    title: Post-Construction Rough Cleaning
+    styles:
+      self:
+        flexDirection: col sm:row
+        textAlign: center
+        padding:
+          - pt-6
+          - pb-6
+          - pl-4
+          - pr-4
+          - sm:pl-8
+          - sm:pr-8
+        borderRadius: x-large
+    image:
+      type: ImageBlock
+      url: /images/icon1.svg
+      altText: Icon
       styles:
         self:
-          flexDirection: col sm:row
-          textAlign: center
-          padding:
-            - pt-6
-            - pb-6
-            - pl-4
-            - pr-4
-            - sm:pl-8
-            - sm:pr-8
           borderRadius: x-large
-      image:
-        type: ImageBlock
-        url: /images/icon1.svg
-        altText: Icon
-        styles:
-          self:
-            borderRadius: x-large
       - title: Final Detail & Touch-Up Cleaning
         subtitle:
         text:
