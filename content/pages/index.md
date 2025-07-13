@@ -88,12 +88,14 @@ sections:
         styles:
           self:
             padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
+              - pt-6
+              - pb-6
+              - pl-4
+              - pr-4
+              - sm:pl-8
+              - sm:pr-8
             borderRadius: x-large
-            flexDirection: row
+            flexDirection: col sm:row
             textAlign: left
             justifyContent: center
         type: FeaturedItem
@@ -110,12 +112,14 @@ sections:
         styles:
           self:
             padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
+              - pt-6
+              - pb-6
+              - pl-4
+              - pr-4
+              - sm:pl-8
+              - sm:pr-8
             borderRadius: x-large
-            flexDirection: row
+            flexDirection: col sm:row
         type: FeaturedItem
     badge:
       label:
