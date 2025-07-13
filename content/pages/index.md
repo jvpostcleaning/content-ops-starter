@@ -33,10 +33,12 @@ sections:
         flexDirection: row
         justifyContent: center
         padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16  
+          - pt-6
+          - pb-6
+          - pl-4
+          - pr-4
+          - sm:pl-8
+          - sm:pr-8
   - type: FeaturedItemsSection
     title:
       text: Specializations
