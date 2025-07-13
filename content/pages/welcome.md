@@ -1,6 +1,6 @@
 ---
-title: Pricing
-slug: pricing
+title: Welcome
+slug: Welcome
 sections:
   - title:
       text: A team that works closely together
