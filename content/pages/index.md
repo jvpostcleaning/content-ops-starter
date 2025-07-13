@@ -40,7 +40,6 @@ sections:
       backgroundRepeat: no-repeat
       opacity: 100
       url: /images/abstract-background.svg
-  - type: GenericSection
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
@@ -100,6 +99,7 @@ sections:
             justifyContent: center
           subtitle:
             textAlign: center
+        type: GenericSection
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
