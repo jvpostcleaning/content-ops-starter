@@ -3,6 +3,17 @@ title: Home
 slug: /
 sections:
   - type: GenericSection
+    image:
+      type: ImageBlock
+      url: /images/logo.png      # <-- replace with your image path
+      altText: JV Post Cleaning team photo
+      styles:
+        self:
+          width: w-full sm:w-1/2       # adjust sizing
+          margin: [mb-4]               # spacing below image
+          borderRadius: large
+          justifyContent: center
+  - type: GenericSection
     title:
       text: JV Post Cleaning
       color: text-dark
