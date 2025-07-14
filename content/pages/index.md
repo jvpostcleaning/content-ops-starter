@@ -137,3 +137,29 @@ sections:
       label:
       color: text-primary
       styles:
+        self:
+          textAlign: center
+      type: Badge
+    elementId: ''
+    variant: three-col-grid
+    colors: bg-neutral-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-6
+          - pb-6
+          - pl-4
+          - pr-4
+          - sm:pl-8
+          - sm:pr-8
+        justifyContent: center
+      subtitle:
+        textAlign: center
+
+seo:
+  metaTitle: JV Post Cleaning
+  metaDescription: JV Post Cleaning
+  socialImage:
+  type: Seo
+type: PageLayout
+---
