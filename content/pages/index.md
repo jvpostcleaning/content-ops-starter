@@ -2,7 +2,7 @@
 title: Home
 slug: /
 sections:
-  - type: GenericSection
+- type: GenericSection
   colors: bg-light-fg-dark
   styles:
     self:
