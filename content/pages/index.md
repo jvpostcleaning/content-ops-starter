@@ -3,23 +3,23 @@ title: Home
 slug: /
 sections:
   - type: GenericSection
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-        alignItems: center
-        padding:
-          - pt-4
-          - pb-2
-    elements:
-      - type: ImageBlock
-        url: /images/logo.png   # ✅ replace with your actual logo path
-        altText: JV Post Cleaning Logo
-        styles:
-          self:
-            width: w-24 sm:w-32 md:w-40
-            height: h-auto
-            margin: mx-auto
+  colors: bg-light-fg-dark
+  styles:
+    self:
+      justifyContent: center
+      alignItems: center
+      padding:
+        - pt-4
+        - pb-2
+  elements:
+    - type: ImageBlock
+      url: /images/logo.png
+      altText: JV Post Cleaning Logo
+      styles:
+        self:
+          width: w-24 sm:w-32 md:w-40
+          height: h-auto
+          margin: mx-auto
   - type: GenericSection
     title:
       text: JV Post Cleaning
