@@ -3,19 +3,15 @@ title: Home
 slug: /
 sections:
   - type: GenericSection
-    title:
-      text: ''
-      type: TitleBlock
-    image:
-      type: ImageBlock
-      url: /images/logo.png
-      altText: JV Post Cleaning team photo
-      styles:
-        self:
-          width: w-full sm:w-1/2
-          margin: [mb-4]
-          borderRadius: large
-          justifyContent: center
+    blocks:
+      - type: ImageBlock
+        url: /images/logo.png
+        altText: JV Post Cleaning team photo
+        styles:
+          self:
+            width: w-1/2
+            margin: [mb-4]
+            borderRadius: large
     styles:
       self:
         justifyContent: center
