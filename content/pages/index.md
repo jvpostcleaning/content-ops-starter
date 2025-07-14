@@ -34,17 +34,7 @@ sections:
       label:
       color: text-primary
       type: Badge
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-        padding:
-          - pt-6
-          - pb-6
-          - pl-4
-          - pr-4
-          - sm:pl-8
-          - sm:pr-8
+
   - type: GenericSection
     title:
       text: JV Post Cleaning
@@ -155,35 +145,4 @@ sections:
               - sm:pr-8
             borderRadius: x-large
             flexDirection: col sm:row
-        image:
-          type: ImageBlock
-          url: /images/icon3.svg
-          altText: Featured icon three
-
-    badge:
-      label:
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-      type: Badge
-    variant: three-col-grid
-    colors: bg-neutral-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-6
-          - pb-6
-          - pl-4
-          - pr-4
-          - sm:pl-8
-          - sm:pr-8
-        justifyContent: center
-      subtitle:
-        textAlign: center
-seo:
-  metaTitle: JV Post Cleaning
-  metaDescription: JV Post Cleaning
-  type: Seo
-type: PageLayout
----
+        im
