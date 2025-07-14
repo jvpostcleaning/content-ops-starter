@@ -1,7 +1,7 @@
 ---
 title: Home
 slug: /
-  sections:
+sections:
   - type: GenericSection
     elements:
       - type: GridBlock
