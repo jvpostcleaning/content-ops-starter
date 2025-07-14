@@ -38,30 +38,30 @@ sections:
               textAlign: center
             text:
               fontSize: text-xl sm:text-2xl
-    text: >
-      We’d like to introduce JV Post Construction Cleaning, LLC, proudly owned by Joanne
-      Solis and Viridiana Moreno.
-      With years of experience in the construction industry and both of us holding OSHA 10 & OSHA 30 certifications,
-      we understand the high standards required for a job site to be truly complete.
-      That’s why we founded JV Post Cleaning — to provide reliable, detail- oriented, and
-      professional post-construction cleaning services you can count on.
-    badge:
-      label:
-      color: text-primary
-      type: Badge
-    elementId: ''
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        flexDirection: row
-        justifyContent: center
-        padding:
-          - pt-6
-          - pb-6
-          - pl-4
-          - pr-4
-          - sm:pl-8
-          - sm:pr-8
+          text: >
+            We’d like to introduce JV Post Construction Cleaning, LLC, proudly owned by Joanne
+            Solis and Viridiana Moreno.
+            With years of experience in the construction industry and both of us holding OSHA 10 & OSHA 30 certifications,
+            we understand the high standards required for a job site to be truly complete.
+            That’s why we founded JV Post Cleaning — to provide reliable, detail- oriented, and
+            professional post-construction cleaning services you can count on.
+          badge:
+            label:
+            color: text-primary
+            type: Badge
+          elementId: ''
+          colors: bg-light-fg-dark
+          styles:
+            self:
+              flexDirection: row
+              justifyContent: center
+              padding:
+                - pt-6
+                - pb-6
+                - pl-4
+                - pr-4
+                - sm:pl-8
+                - sm:pr-8
   - type: FeaturedItemsSection
     title:
       text: Specializations
