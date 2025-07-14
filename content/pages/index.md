@@ -30,6 +30,21 @@ sections:
                 width: w-16
                 height: h-auto
                 objectFit: contain
+    badge:
+      label:
+      color: text-primary
+      type: Badge
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        justifyContent: center
+        padding:
+          - pt-6
+          - pb-6
+          - pl-4
+          - pr-4
+          - sm:pl-8
+          - sm:pr-8
   - type: GenericSection
     title:
       text: JV Post Cleaning
