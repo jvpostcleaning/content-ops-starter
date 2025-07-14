@@ -13,7 +13,7 @@ sections:
           - pb-2
     elements:
       - type: ImageBlock
-        url: /images/logo.png
+        url: https://github.com/jvpostcleaning/content-ops-starter/blob/main/public/images/logo.png
         altText: JV Post Cleaning Logo
         styles:
           self:
