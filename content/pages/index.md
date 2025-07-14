@@ -30,18 +30,9 @@ sections:
                 width: w-16
                 height: h-auto
                 objectFit: contain
-          - type: TitleBlock
-            text: JV Post Cleaning
-            color: text-dark
-            styles:
-              self:
-                textAlign: center
-              text:
-                fontSize: text-xl sm:text-2xl
-
   - type: GenericSection
     title:
-      text: Welcome
+      text: JV Post Cleaning
       color: text-dark
       type: TitleBlock
       styles:
