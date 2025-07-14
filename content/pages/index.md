@@ -19,13 +19,12 @@ sections:
           - sm:pr-6
     elements:
       - type: ImageBlock
-        url: /images/logo.png  # replace with your actual logo path
+        url: /images/logo.png
         altText: JV Post Cleaning Logo
         styles:
           self:
             width: w-32
-            maxWidth: max-w-xs
-            height: auto
+            height: h-auto
             margin: mx-auto
   - type: GenericSection
     title:
