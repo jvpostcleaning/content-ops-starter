@@ -2,54 +2,12 @@
 title: Home
 slug: /
 sections:
-- type: GenericSection
-  colors: bg-light-fg-dark
-  styles:
-    self:
-      flexDirection: row          # Ensures image and text are side by side
-      alignItems: center
-      justifyContent: center
-      padding:
-        - pt-6
-        - pb-6
-        - pl-4
-        - pr-4
-        - sm:pl-8
-        - sm:pr-8
-  elements:
-    - type: ImageBlock
-      url: /images/main-hero.svg
-      altText: Unblock your team boost your time to production preview
-      elementId: ''
-      styles:
-        self:
-          width: w-1/2
-          height: h-auto
-          padding: pr-4
-    - type: TitleBlock
-      title: JV Post Cleaning
-      color: text-dark
-      styles:
-        self:
-          textAlign: left
-        text:
-          fontSize: text-xs sm:text-sm
-      text: >
-        We’d like to introduce JV Post Construction Cleaning, LLC, proudly owned by Joanne
-        Solis and Viridiana Moreno.
-        With years of experience in the construction industry and both of us holding OSHA 10 & OSHA 30 certifications,
-        we understand the high standards required for a job site to be truly complete.
-        That’s why we founded JV Post Cleaning — to provide reliable, detail-oriented, and
-        professional post-construction cleaning services you can count on.
-    badge:
-      label:
-      color: text-primary
-      type: Badge
-    elementId: ''
+  - type: GenericSection
     colors: bg-light-fg-dark
     styles:
       self:
-        flexDirection: row
+        flexDirection: row          # Ensures image and text are side by side
+        alignItems: center
         justifyContent: center
         padding:
           - pt-6
@@ -58,7 +16,31 @@ sections:
           - pr-4
           - sm:pl-8
           - sm:pr-8
-
+    elements:
+      - type: ImageBlock
+        url: /images/main-hero.svg
+        altText: Unblock your team boost your time to production preview
+        elementId: ''
+        styles:
+          self:
+            width: w-1/2
+            height: h-auto
+            padding: pr-4
+      - type: TitleBlock
+        title: JV Post Cleaning
+        color: text-dark
+        styles:
+          self:
+            textAlign: left
+          text:
+            fontSize: text-xs sm:text-sm
+        text: >
+          We’d like to introduce JV Post Construction Cleaning, LLC, proudly owned by Joanne
+          Solis and Viridiana Moreno.
+          With years of experience in the construction industry and both of us holding OSHA 10 & OSHA 30 certifications,
+          we understand the high standards required for a job site to be truly complete.
+          That’s why we founded JV Post Cleaning — to provide reliable, detail-oriented, and
+          professional post-construction cleaning services you can count on.
   - type: FeaturedItemsSection
     title:
       text: Specializations
