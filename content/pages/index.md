@@ -3,16 +3,24 @@ title: Home
 slug: /
 sections:
   - type: GenericSection
+    title:
+      text: ''
+      type: TitleBlock
     image:
       type: ImageBlock
-      url: /images/logo.png      # <-- replace with your image path
+      url: /images/logo.png
       altText: JV Post Cleaning team photo
       styles:
         self:
-          width: w-full sm:w-1/2       # adjust sizing
-          margin: [mb-4]               # spacing below image
+          width: w-full sm:w-1/2
+          margin: [mb-4]
           borderRadius: large
           justifyContent: center
+    styles:
+      self:
+        justifyContent: center
+        alignItems: center
+        padding: [pt-6, pb-6]
   - type: GenericSection
     title:
       text: JV Post Cleaning
