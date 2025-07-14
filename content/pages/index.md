@@ -2,24 +2,31 @@
 title: Home
 slug: /
 sections:
-  - type: GenericSection
-    items:
-      - type: ImageBlock
-        url: /images/logo.png
-        altText: JV Post Cleaning Logo
-        styles:
-          self:
-            width: w-16
-            height: h-16
-            margin: mr-4
-      - type: TitleBlock
-        text: JV Post Cleaning
-        color: text-dark
-        styles:
-          self:
-            textAlign: center
-          text:
-            fontSize: text-xl
+- type: GenericSection
+  elements:
+    - type: GridBlock
+      elements:
+        - type: ImageBlock
+          url: /images/logo.png
+          altText: JV Post Cleaning Logo
+          styles:
+            self:
+              width: w-16
+              height: h-16
+              margin: mr-4
+        - type: TitleBlock
+          text: JV Post Cleaning
+          color: text-dark
+          styles:
+            self:
+              textAlign: center
+            text:
+              fontSize: text-xl
+      styles:
+        self:
+          justifyContent: center
+          alignItems: center
+          flexDirection: row
     text: >
       We’d like to introduce JV Post Construction Cleaning, LLC, proudly owned by Joanne
       Solis and Viridiana Moreno.
