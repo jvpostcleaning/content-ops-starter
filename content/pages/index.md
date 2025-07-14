@@ -20,8 +20,6 @@ sections:
             width: w-24 sm:w-32 md:w-40
             height: h-auto
             margin: mx-auto
-
-
   - type: GenericSection
     title:
       text: JV Post Cleaning
