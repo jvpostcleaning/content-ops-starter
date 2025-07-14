@@ -20,6 +20,7 @@ sections:
             width: w-24 sm:w-32 md:w-40
             height: h-auto
             margin: mx-auto
+
   - type: GenericSection
     title:
       text: JV Post Cleaning
@@ -54,6 +55,7 @@ sections:
           - pr-4
           - sm:pl-8
           - sm:pr-8
+
   - type: FeaturedItemsSection
     title:
       text: Specializations
@@ -63,14 +65,10 @@ sections:
           textAlign: center
           fontSize: text-sm
       type: TitleBlock
-    subtitle: 
     items:
       - type: FeaturedItem
         title: Post-Construction Rough Cleaning
-        subtitle:
-        text:
         actions: []
-        elementId: null
         colors: bg-neutralAlt-fg-dark
         styles:
           self:
@@ -88,19 +86,13 @@ sections:
         image:
           type: ImageBlock
           altText: Lightning bolt symbol on red background
-          elementId: ''
           url: /images/icon1.svg
           styles:
             self:
               borderRadius: x-large
-      - title: Final Detail & Touch-Up Cleaning
-        subtitle:
-        text:
-        image:
-          url: /images/icon2.svg
-          altText: Featured icon two
-          elementId: ''
-          type: ImageBlock
+
+      - type: FeaturedItem
+        title: Final Detail & Touch-Up Cleaning
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
@@ -114,17 +106,15 @@ sections:
               - sm:pr-8
             borderRadius: x-large
             flexDirection: col sm:row
-            textAlign: left
             justifyContent: center
-        type: FeaturedItem
-      - title: Industrial & Residential Clean-Up
-        subtitle:
-        text: >-
+            textAlign: left
         image:
-          url: /images/icon3.svg
-          altText: Featured icon three
-          elementId: ''
           type: ImageBlock
+          altText: Featured icon two
+          url: /images/icon2.svg
+
+      - type: FeaturedItem
+        title: Industrial & Residential Clean-Up
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
@@ -138,33 +128,12 @@ sections:
               - sm:pr-8
             borderRadius: x-large
             flexDirection: col sm:row
-        type: FeaturedItem
+        image:
+          type: ImageBlock
+          altText: Featured icon three
+          url: /images/icon3.svg
+
     badge:
       label:
       color: text-primary
       styles:
-        self:
-          textAlign: center
-      type: Badge
-    elementId: ''
-    variant: three-col-grid
-    colors: bg-neutral-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-6
-          - pb-6
-          - pl-4
-          - pr-4
-          - sm:pl-8
-          - sm:pr-8
-        justifyContent: center
-      subtitle:
-        textAlign: center
-seo:
-  metaTitle: JV Post Cleaning
-  metaDescription: JV Post Cleaning
-  socialImage:
-  type: Seo
-type: PageLayout
----
